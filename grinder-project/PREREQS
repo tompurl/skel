@@ -1,0 +1,15 @@
+Here's what you need in order to make this project skeleton work with Grinder:
+
+* Grinder 3.4
+* Java 1.5 or greater
+* The following env vars:
+  * GRINDER_HOME
+  * JAVA_HOME
+* Adding $GRINDER_HOME/lib/grinder.jar to your CLASSPATH
+
+Before you run the bin/startAgent.sh script, you need to have a running Grinder
+console. Here's how you do that:
+
+* http://grinder.sourceforge.net/g2/getting-started.html#How+do+I+start+The+Grinder%3F 
+
+Have fun!
